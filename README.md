@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @nguyenhonhatnam, a Software Engineer based in Ho Chi Minh City, Vietnam.<br>👀 I’m interested in backend development, system integration, and mobile apps.<br>🌱 I’m currently working with Java, Python, Dart, X++, and SQL Server.<br>💞️ I’m looking to collaborate on Flutter, Microsoft Dynamics 365 FO, and backend projects.
+👋 Hi, I’m @nguyenhonhatnam, a Software Engineer (SE) based in Ho Chi Minh City, Vietnam.<br>👀 I’m interested in backend development, system integration, and mobile apps.<br>🌱 I’m currently working with Java, Python, Dart, X++, and SQL Server.<br>💞️ I’m looking to collaborate on Flutter, Microsoft Dynamics 365 FO, and backend projects.
 
 
 ## 🌐 Socials:
